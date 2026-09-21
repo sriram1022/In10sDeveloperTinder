@@ -1,0 +1,25 @@
+{
+  "name": "in10sdevelopertinder",
+  "version": "1.0.0",
+  "description": "this application is used for communication ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriram1022/In10sDeveloperTinder.git"
+  },
+  "author": "sriram korla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriram1022/In10sDeveloperTinder/issues"
+  },
+  "homepage": "https://github.com/sriram1022/In10sDeveloperTinder#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
